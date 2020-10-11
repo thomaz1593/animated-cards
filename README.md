@@ -1,2 +1,2 @@
 # animated-cards
-Cards animated with hover effect build with HTML and CSS.
+Cards animated with hover effect build with HTML, SASS and CSS.
